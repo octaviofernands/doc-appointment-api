@@ -1,4 +1,4 @@
-import { MigrationAdapter } from './adapter';
+import { MigrationAdapter } from './.utils/adapter';
 
 const db = new MigrationAdapter();
 

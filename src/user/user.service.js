@@ -1,10 +1,10 @@
 import { Injectable, Dependencies } from '@nestjs/common';
 import { getModelToken } from '@nestjs/mongoose';
-import { name as conditionModelName } from './schemas/condition.schema';
+import { name as userModelName } from './schemas/user.schema';
 
 @Injectable()
-@Dependencies(getModelToken(conditionModelName))
-export class ConditionService {
+@Dependencies(getModelToken(userModelName))
+export class UserService {
   constructor(model) {
     this.model = model;
   }
@@ -19,6 +19,16 @@ export class ConditionService {
       };
 
       return payload;
+    } catch (err) {
+      console.log(err);
+    }
+  }
+
+  async findByEmail(email) {
+    try {
+      const user = await this.model.findOne({email}).exec();
+  
+      return user;
     } catch (err) {
       console.log(err);
     }

@@ -1,9 +1,13 @@
 {
-  "lastRun": "1633892509017-populate-conditions.js",
+  "lastRun": "1633906401036-first-user.js",
   "migrations": [
     {
       "title": "1633892509017-populate-conditions.js",
-      "timestamp": 1633900403779
+      "timestamp": 1633909439305
+    },
+    {
+      "title": "1633906401036-first-user.js",
+      "timestamp": 1633909439395
     }
   ]
 }

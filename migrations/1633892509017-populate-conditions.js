@@ -5,6 +5,6 @@ const db = new MigrationAdapter();
 
 export const up = async () => {
   await db.connect();
-  await db.client.collection('condition').insertMany(ConditionsPopulate);
+  await db.client.collection('conditions').insertMany(ConditionsPopulate);
   await db.disconnect();
 };

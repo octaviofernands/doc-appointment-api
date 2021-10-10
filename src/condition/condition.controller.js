@@ -1,18 +1,17 @@
-import { Controller, Get, Dependencies } from '@nestjs/common';
+import { Controller, Get, UseGuards, Dependencies } from '@nestjs/common';
+import { AuthGuard } from '@nestjs/passport';
 import { ConditionService } from './condition.service';
 
 @Controller('condition')
 @Dependencies(ConditionService)
 export class ConditionController {
   constructor(service) {
-    console.log('OI');
-    console.log(service);
     this.service = service;
   }
 
+  @UseGuards(AuthGuard('jwt'))
   @Get()
   async index() {
-    console.log(1);
     return await this.service.findAll();
   }
 }
