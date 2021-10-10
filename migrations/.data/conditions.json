@@ -1,0 +1,490 @@
+[
+    {
+        "codeICD10": "A09",
+        "description": "Infectious gastroenteritis and colitis, unspecified"
+    },
+    {
+        "codeICD10": "A64",
+        "description": "Unspecified sexually transmitted disease"
+    },
+    {
+        "codeICD10": "B300",
+        "description": "Keratoconjunctivitis due to adenovirus"
+    },
+    {
+        "codeICD10": "B302",
+        "description": "Viral pharyngoconjunctivitis"
+    },
+    {
+        "codeICD10": "B308",
+        "description": "Other viral conjunctivitis"
+    },
+    {
+        "codeICD10": "B309",
+        "description": "Viral conjunctivitis, unspecified"
+    },
+    {
+        "codeICD10": "B373",
+        "description": "Candidiasis of vulva and vagina"
+    },
+    {
+        "codeICD10": "B9789",
+        "description": "Other viral agents as the cause of diseases classified elsewhere"
+    },
+    {
+        "codeICD10": "E860",
+        "description": "Dehydration"
+    },
+    {
+        "codeICD10": "F340",
+        "description": "Cyclothymic disorder"
+    },
+    {
+        "codeICD10": "F341",
+        "description": "Dysthymic disorder"
+    },
+    {
+        "codeICD10": "F39",
+        "description": "Unspecified mood [affective] disorder"
+    },
+    {
+        "codeICD10": "F411",
+        "description": "Generalized anxiety disorder"
+    },
+    {
+        "codeICD10": "F418",
+        "description": "Other specified anxiety disorders"
+    },
+    {
+        "codeICD10": "F419",
+        "description": "Anxiety disorder, unspecified"
+    },
+    {
+        "codeICD10": "F4321",
+        "description": "Adjustment disorder with depressed mood"
+    },
+    {
+        "codeICD10": "G43001",
+        "description": "Migraine without aura, not intractable, with status migrainosus"
+    },
+    {
+        "codeICD10": "G43009",
+        "description": "Migraine without aura, not intractable, without status migrainosus"
+    },
+    {
+        "codeICD10": "G43019",
+        "description": "Migraine without aura, intractable, without status migrainosus"
+    },
+    {
+        "codeICD10": "G43501",
+        "description": "Persistent migraine aura without cerebral infarction, not intractable, with status migrainosus"
+    },
+    {
+        "codeICD10": "G43509",
+        "description": "Persistent migraine aura without cerebral infarction, not intractable, without status migrainosus"
+    },
+    {
+        "codeICD10": "G43519",
+        "description": "Persistent migraine aura without cerebral infarction, intractable, without status migrainosus"
+    },
+    {
+        "codeICD10": "G43701",
+        "description": "Chronic migraine without aura, not intractable, with status migrainosus"
+    },
+    {
+        "codeICD10": "G43709",
+        "description": "Chronic migraine without aura, not intractable, without status migrainosus"
+    },
+    {
+        "codeICD10": "G43711",
+        "description": "Chronic migraine without aura, intractable, with status migrainosus"
+    },
+    {
+        "codeICD10": "G43719",
+        "description": "Chronic migraine without aura, intractable, without status migrainosus"
+    },
+    {
+        "codeICD10": "G43809",
+        "description": "Other migraine, not intractable, without status migrainosus"
+    },
+    {
+        "codeICD10": "G43811",
+        "description": "Other migraine, intractable, with status migrainosus"
+    },
+    {
+        "codeICD10": "G43819",
+        "description": "Other migraine, intractable, without status migrainosus"
+    },
+    {
+        "codeICD10": "G43829",
+        "description": "Menstrual migraine, not intractable, without status migrainosus"
+    },
+    {
+        "codeICD10": "G43909",
+        "description": "Migraine, unspecified, not intractable, without status migrainosus"
+    },
+    {
+        "codeICD10": "G43911",
+        "description": "Migraine, unspecified, intractable, with status migrainosus"
+    },
+    {
+        "codeICD10": "G43919",
+        "description": "Migraine, unspecified, intractable, without status migrainosus"
+    },
+    {
+        "codeICD10": "G44209",
+        "description": "Tension-type headache, unspecified, not intractable"
+    },
+    {
+        "codeICD10": "G44219",
+        "description": "Episodic tension-type headache, not intractable"
+    },
+    {
+        "codeICD10": "G4700",
+        "description": "Insomnia, unspecified"
+    },
+    {
+        "codeICD10": "G4701",
+        "description": "Insomnia due to medical condition"
+    },
+    {
+        "codeICD10": "G5600",
+        "description": "Carpal tunnel syndrome, unspecified upper limb"
+    },
+    {
+        "codeICD10": "H10029",
+        "description": "Other mucopurulent conjunctivitis, unspecified eye"
+    },
+    {
+        "codeICD10": "H1033",
+        "description": "Unspecified acute conjunctivitis, bilateral"
+    },
+    {
+        "codeICD10": "H1044",
+        "description": "Vernal conjunctivitis"
+    },
+    {
+        "codeICD10": "H1045",
+        "description": "Other chronic allergic conjunctivitis"
+    },
+    {
+        "codeICD10": "H10509",
+        "description": "Unspecified blepharoconjunctivitis, unspecified eye"
+    },
+    {
+        "codeICD10": "H10819",
+        "description": "Pingueculitis, unspecified eye"
+    },
+    {
+        "codeICD10": "H1089",
+        "description": "Other conjunctivitis"
+    },
+    {
+        "codeICD10": "H109",
+        "description": "Unspecified conjunctivitis"
+    },
+    {
+        "codeICD10": "H6020",
+        "description": "Malignant otitis externa, unspecified ear"
+    },
+    {
+        "codeICD10": "H60339",
+        "description": "Swimmer's ear, unspecified ear"
+    },
+    {
+        "codeICD10": "H60399",
+        "description": "Other infective otitis externa, unspecified ear"
+    },
+    {
+        "codeICD10": "H6500",
+        "description": "Acute serous otitis media, unspecified ear"
+    },
+    {
+        "codeICD10": "H65119",
+        "description": "Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous), unspecified ear"
+    },
+    {
+        "codeICD10": "H65199",
+        "description": "Other acute nonsuppurative otitis media, unspecified ear"
+    },
+    {
+        "codeICD10": "H6520",
+        "description": "Chronic serous otitis media, unspecified ear"
+    },
+    {
+        "codeICD10": "H65499",
+        "description": "Other chronic nonsuppurative otitis media, unspecified ear"
+    },
+    {
+        "codeICD10": "H6590",
+        "description": "Unspecified nonsuppurative otitis media, unspecified ear"
+    },
+    {
+        "codeICD10": "H66009",
+        "description": "Acute suppurative otitis media without spontaneous rupture of ear drum, unspecified ear"
+    },
+    {
+        "codeICD10": "H66019",
+        "description": "Acute suppurative otitis media with spontaneous rupture of ear drum, unspecified ear"
+    },
+    {
+        "codeICD10": "H663X9",
+        "description": "Other chronic suppurative otitis media, unspecified ear"
+    },
+    {
+        "codeICD10": "H6640",
+        "description": "Suppurative otitis media, unspecified, unspecified ear"
+    },
+    {
+        "codeICD10": "H6690",
+        "description": "Otitis media, unspecified, unspecified ear"
+    },
+    {
+        "codeICD10": "J00",
+        "description": "Acute nasopharyngitis [common cold]"
+    },
+    {
+        "codeICD10": "J0100",
+        "description": "Acute maxillary sinusitis, unspecified"
+    },
+    {
+        "codeICD10": "J0110",
+        "description": "Acute frontal sinusitis, unspecified"
+    },
+    {
+        "codeICD10": "J0130",
+        "description": "Acute sphenoidal sinusitis, unspecified"
+    },
+    {
+        "codeICD10": "J0140",
+        "description": "Acute pansinusitis, unspecified"
+    },
+    {
+        "codeICD10": "J0190",
+        "description": "Acute sinusitis, unspecified"
+    },
+    {
+        "codeICD10": "J029",
+        "description": "Acute pharyngitis, unspecified"
+    },
+    {
+        "codeICD10": "J060",
+        "description": "Acute laryngopharyngitis"
+    },
+    {
+        "codeICD10": "J069",
+        "description": "Acute upper respiratory infection, unspecified"
+    },
+    {
+        "codeICD10": "J209",
+        "description": "Acute bronchitis, unspecified"
+    },
+    {
+        "codeICD10": "J301",
+        "description": "Allergic rhinitis due to pollen"
+    },
+    {
+        "codeICD10": "J3081",
+        "description": "Allergic rhinitis due to animal (cat) (dog) hair and dander"
+    },
+    {
+        "codeICD10": "J36",
+        "description": "Peritonsillar abscess"
+    },
+    {
+        "codeICD10": "J40",
+        "description": "Bronchitis, not specified as acute or chronic"
+    },
+    {
+        "codeICD10": "J411",
+        "description": "Mucopurulent chronic bronchitis"
+    },
+    {
+        "codeICD10": "J42",
+        "description": "Unspecified chronic bronchitis"
+    },
+    {
+        "codeICD10": "J45901",
+        "description": "Unspecified asthma with (acute) exacerbation"
+    },
+    {
+        "codeICD10": "J45902",
+        "description": "Unspecified asthma with status asthmaticus"
+    },
+    {
+        "codeICD10": "K210",
+        "description": "Gastro-esophageal reflux disease with esophagitis"
+    },
+    {
+        "codeICD10": "K219",
+        "description": "Gastro-esophageal reflux disease without esophagitis"
+    },
+    {
+        "codeICD10": "K2900",
+        "description": "Acute gastritis without bleeding"
+    },
+    {
+        "codeICD10": "K2920",
+        "description": "Alcoholic gastritis without bleeding"
+    },
+    {
+        "codeICD10": "K2960",
+        "description": "Other gastritis without bleeding"
+    },
+    {
+        "codeICD10": "K5900",
+        "description": "Constipation, unspecified"
+    },
+    {
+        "codeICD10": "K5901",
+        "description": "Slow transit constipation"
+    },
+    {
+        "codeICD10": "K5902",
+        "description": "Outlet dysfunction constipation"
+    },
+    {
+        "codeICD10": "K649",
+        "description": "Unspecified hemorrhoids"
+    },
+    {
+        "codeICD10": "K8019",
+        "description": "Calculus of gallbladder with other cholecystitis with obstruction"
+    },
+    {
+        "codeICD10": "K8020",
+        "description": "Calculus of gallbladder without cholecystitis without obstruction"
+    },
+    {
+        "codeICD10": "K8021",
+        "description": "Calculus of gallbladder without cholecystitis with obstruction"
+    },
+    {
+        "codeICD10": "K8042",
+        "description": "Calculus of bile duct with acute cholecystitis without obstruction"
+    },
+    {
+        "codeICD10": "K8050",
+        "description": "Calculus of bile duct without cholangitis or cholecystitis without obstruction"
+    },
+    {
+        "codeICD10": "K8051",
+        "description": "Calculus of bile duct without cholangitis or cholecystitis with obstruction"
+    },
+    {
+        "codeICD10": "L240",
+        "description": "Irritant contact dermatitis due to detergents"
+    },
+    {
+        "codeICD10": "L242",
+        "description": "Irritant contact dermatitis due to solvents"
+    },
+    {
+        "codeICD10": "L250",
+        "description": "Unspecified contact dermatitis due to cosmetics"
+    },
+    {
+        "codeICD10": "L251",
+        "description": "Unspecified contact dermatitis due to drugs in contact with skin"
+    },
+    {
+        "codeICD10": "L253",
+        "description": "Unspecified contact dermatitis due to other chemical products"
+    },
+    {
+        "codeICD10": "L255",
+        "description": "Unspecified contact dermatitis due to plants, except food"
+    },
+    {
+        "codeICD10": "L259",
+        "description": "Unspecified contact dermatitis, unspecified cause"
+    },
+    {
+        "codeICD10": "M25539",
+        "description": "Pain in unspecified wrist"
+    },
+    {
+        "codeICD10": "M5430",
+        "description": "Sciatica, unspecified side"
+    },
+    {
+        "codeICD10": "N730",
+        "description": "Acute parametritis and pelvic cellulitis"
+    },
+    {
+        "codeICD10": "N733",
+        "description": "Female acute pelvic peritonitis"
+    },
+    {
+        "codeICD10": "N739",
+        "description": "Female pelvic inflammatory disease, unspecified"
+    },
+    {
+        "codeICD10": "N912",
+        "description": "Amenorrhea, unspecified"
+    },
+    {
+        "codeICD10": "N920",
+        "description": "Excessive and frequent menstruation with regular cycle"
+    },
+    {
+        "codeICD10": "N921",
+        "description": "Excessive and frequent menstruation with irregular cycle"
+    },
+    {
+        "codeICD10": "N924",
+        "description": "Excessive bleeding in the premenopausal period"
+    },
+    {
+        "codeICD10": "N930",
+        "description": "Postcoital and contact bleeding"
+    },
+    {
+        "codeICD10": "N946",
+        "description": "Dysmenorrhea, unspecified"
+    },
+    {
+        "codeICD10": "R079",
+        "description": "Chest pain, unspecified"
+    },
+    {
+        "codeICD10": "R109",
+        "description": "Unspecified abdominal pain"
+    },
+    {
+        "codeICD10": "R21",
+        "description": "Rash and other nonspecific skin eruption"
+    },
+    {
+        "codeICD10": "R42",
+        "description": "Dizziness and giddiness"
+    },
+    {
+        "codeICD10": "S53449A",
+        "description": "Ulnar collateral ligament sprain of unspecified elbow, initial encounter"
+    },
+    {
+        "codeICD10": "S63519A",
+        "description": "Sprain of carpal joint of unspecified wrist, initial encounter"
+    },
+    {
+        "codeICD10": "S63599A",
+        "description": "Other specified sprain of unspecified wrist, initial encounter"
+    },
+    {
+        "codeICD10": "S638X9A",
+        "description": "Sprain of other part of unspecified wrist and hand, initial encounter"
+    },
+    {
+        "codeICD10": "S93419A",
+        "description": "Sprain of calcaneofibular ligament of unspecified ankle, initial encounter"
+    },
+    {
+        "codeICD10": "S93429A",
+        "description": "Sprain of deltoid ligament of unspecified ankle, initial encounter"
+    },
+    {
+        "codeICD10": "S93439A",
+        "description": "Sprain of tibiofibular ligament of unspecified ankle, initial encounter"
+    }
+]
