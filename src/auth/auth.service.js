@@ -14,9 +14,10 @@ export class AuthService {
     const user = await this.userService.findByEmail(email);
     const isValid = await user.comparePassword(password);
 
-    if(isValid) {
-      const { ...result } = user;
+    if (isValid) {
+      const result = user.toObject();
       delete result.password;
+      console.log('result', result)
       return result;
     }
 
@@ -24,7 +25,9 @@ export class AuthService {
   }
 
   async login(user) {
-    const payload = { username: user.email, sub: user.id };
+
+    const payload = { username: user.email, sub: user._id.toString() };
+
     return {
       accessToken: this.jwtService.sign(payload)
     };
