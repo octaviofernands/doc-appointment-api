@@ -26,6 +26,13 @@
         "semi": [
             "error",
             "always"
+        ],
+        "max-len": [
+            "error",
+            "always",
+            {
+                "code": 80
+            }
         ]
     },
     "ignorePatterns": [

@@ -21,6 +21,7 @@ export class UserService {
       return payload;
     } catch (err) {
       console.log(err);
+      throw err;
     }
   }
 
@@ -31,6 +32,7 @@ export class UserService {
       return user;
     } catch (err) {
       console.log(err);
+      throw err;
     }
   }
 }

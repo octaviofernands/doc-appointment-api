@@ -17,7 +17,6 @@ export class AuthService {
     if (isValid) {
       const result = user.toObject();
       delete result.password;
-      console.log('result', result)
       return result;
     }
 

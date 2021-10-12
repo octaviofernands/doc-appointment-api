@@ -1,5 +1,5 @@
 {
-  "lastRun": "1633906401036-first-user.js",
+  "lastRun": "1633967907423-populate-cases.js",
   "migrations": [
     {
       "title": "1633892509017-populate-conditions.js",
@@ -8,6 +8,10 @@
     {
       "title": "1633906401036-first-user.js",
       "timestamp": 1633909439395
+    },
+    {
+      "title": "1633967907423-populate-cases.js",
+      "timestamp": 1634047139359
     }
   ]
 }
