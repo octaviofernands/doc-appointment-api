@@ -1,4 +1,4 @@
-import { 
+import {
   Controller,
   Get,
   Post,
@@ -18,11 +18,11 @@ export class CaseController {
   constructor(service) {
     this.service = service;
   }
-    
+
   @UseGuards(AuthGuard('jwt'))
-  @Get('rate-list')
-  async rateList() {
-    return await this.service.findAllNotRated();
+  @Get('rate')
+  async getnextCaseForRating() {
+    return await this.service.findNextNotRated();
   }
 
   @UseGuards(AuthGuard('jwt'))

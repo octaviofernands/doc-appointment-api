@@ -10,13 +10,13 @@ export class CaseService {
     this.model = model;
   }
 
-  async findAllNotRated() {
-    // ToDo: Caching layer, pagination
+  async findNextNotRated() {
     try {
       const response = await this.model
-        .find({
+        .findOne({
           ratedByDoctor: null
         })
+        .sort('createdAt')
         .exec();
 
       const payload = {
@@ -41,7 +41,7 @@ export class CaseService {
         .exec();
 
       if(!dbCase) throw new Error('The case doesn\'t exists or is already rated.')
-      
+
       //Todo: validate condition
       dbCase.ratedByDoctor = user.id;
       dbCase.condition = condition;

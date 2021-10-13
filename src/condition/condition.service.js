@@ -12,7 +12,7 @@ export class ConditionService {
   async findAll() {
     // ToDo: Caching layer
     try {
-      const response = await this.model.find().exec();
+      const response = await this.model.find().sort('codeICD10').exec();
 
       const payload = {
         data: response
